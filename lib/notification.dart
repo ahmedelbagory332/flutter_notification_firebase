@@ -35,7 +35,7 @@ Future<void> sendNotification() async {
   };
 
   dio.options.headers['Content-Type'] = 'application/json';
-  dio.options.headers["Authorization"] = 'key=AAAAf_L5Dm0:APA91bFQVLtzkvdJ_r5qvUu32PgqGlM6XDt1TfRNTUFamMrZkeNyUrgjaJQikjkIHWHBPZ5zbFPhKq6iyPld8NkW8rUPjJH7km68LbatLDIbhQaIMVVGifOZT1Z-HYkOo6JoqsuZO_bH';
+  dio.options.headers["Authorization"] = 'key=your server key';
 
 
 
